@@ -25,6 +25,7 @@ public class main {
         System.out.println("xxxxxxxxxxxxxxxxx");
         System.out.println( "cantidad: "+A.contar(A.getRaiz()));
         System.out.println("xxxxxxxxxxxxxxxxx");
+        System.out.println("que haces");
         A.crear();
         System.out.println("xxxxxxxxxxxxxxxxx");
         //A.preorden(A.getRaiz());
